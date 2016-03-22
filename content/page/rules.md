@@ -10,7 +10,7 @@ title = "coffee sessions' rules"
 
 1. We meet everyday, for 15 minutes, via Google Hangout.
 
-2. The Hangout link is announced on Slack's `#general` channel
+2. The Hangout link is announced on Slack's `#kitchen` channel
 
 3. Goal of each session is to discuss what have we learned recently.
 
