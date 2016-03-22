@@ -4,7 +4,7 @@
   <div id="content-container">
     <div class="posts">
       <!-- Iterate over the pages -->
-      {{ range first 10 .Data.Pages }}
+      {{ range where .Data.Pages "Section" "session" }}
         <div class="post-preview">
           <span class="post-symbol {{ .Params.color }}">
             <i class="symbol fa fa-{{ .Params.icon }}"></i>

@@ -10,7 +10,10 @@
   <div id="content-container">
     <div class="post">
       <h1>{{ .Title }}</h1>
-      <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006 15:04" }}</span>
+
+      <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
+      <span class="post-date post-hour">{{ .Date.Format "15:04" }}</span>
+
       <p class="post-content">{{ .Content }}</p>
     </div>
   </div>

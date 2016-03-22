@@ -1,0 +1,12 @@
+{{ partial "head.html" . }}
+<body id="single">
+  {{ partial "header.html" . }}
+
+  <div id="content-container">
+    <div class="post page">
+      <h1>{{ .Title }}</h1>
+      <p class="post-content">{{ .Content }}</p>
+    </div>
+  </div>
+</body>
+</html>
