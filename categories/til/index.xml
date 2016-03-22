@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Til on T&#43;D Coffee sessions: TIL</title>
-    <link>http://td-til.github.io/categories/til/</link>
+    <link>http://td-berlin.github.io/coffee-sessions/categories/til/</link>
     <description>Recent content in Til on T&#43;D Coffee sessions: TIL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Mar 2016 16:00:00 +0100</lastBuildDate>
-    <atom:link href="http://td-til.github.io/categories/til/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://td-berlin.github.io/coffee-sessions/categories/til/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>#1: One click deploys </title>
-      <link>http://td-til.github.io/post/2016-03-22-One-click-deploys/</link>
+      <link>http://td-berlin.github.io/coffee-sessions/post/2016-03-22-One-click-deploys/</link>
       <pubDate>Tue, 22 Mar 2016 16:00:00 +0100</pubDate>
       
-      <guid>http://td-til.github.io/post/2016-03-22-One-click-deploys/</guid>
+      <guid>http://td-berlin.github.io/coffee-sessions/post/2016-03-22-One-click-deploys/</guid>
       <description>&lt;p&gt;Meeting meetings will be uploaded after the meeting&lt;/p&gt;
 </description>
     </item>
