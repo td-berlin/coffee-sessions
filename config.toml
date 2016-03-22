@@ -1,4 +1,5 @@
-baseurl = "http://td-til.github.io/"
+baseurl = "http://td-berlin.github.io/coffee-sessions"
 languageCode = "en-us"
 title = "T+D Coffee sessions: TIL"
 theme = "tinyce-hugo-theme"
+canonifyurls = true
