@@ -11,6 +11,10 @@
       <li class="{{ if eq $currentPath "/" }}active{{ end }}">
         <a href="{{ $baseUrl }}">sessions</a>
       </li>
+
+      <li class="{{ if eq $currentPath ("/page/rules") }}active{{ end }}">
+        <a href="{{ $baseUrl }}/page/rules">rules</a>
+      </li>
     </ul>
   </nav>
 </header>
