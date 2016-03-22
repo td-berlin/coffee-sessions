@@ -1,6 +1,6 @@
 .td-brand {
   display: inline-block;
-  background: url("/images/profile.jpg") no-repeat;
+  background: url("../images/profile.jpg") no-repeat;
   background-size: 80px 80px;
   padding-left: 90px;
   height: 80px;
