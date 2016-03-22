@@ -1,0 +1,3 @@
+[submodule "themes/tinyce-hugo-theme"]
+	path = themes/tinyce-hugo-theme
+	url = https://github.com/roperzh/tinyce-hugo-theme
