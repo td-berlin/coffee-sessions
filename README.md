@@ -6,6 +6,13 @@ http://td-til.github.io website.
 Static pages are generated using [Hugo](https://gohugo.io/), published on
 GitHub pages.
 
+## Deploying
+
+In order to deploy to GitHub Pages, commit/merge all changes to `master`.
+
+Then run `deploy.sh` which will extract all files from `public` directory to
+separate branch called `gh-pages`. It is going to be published to public.
+
 ## Contributing
 
 In order to create new coffee session do:
