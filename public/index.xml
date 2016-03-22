@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>T&#43;D Coffee sessions: TIL</title>
+    <title>T&#43;D coffee sessions</title>
     <link>http://td-berlin.github.io/coffee-sessions/</link>
-    <description>Recent content on T&#43;D Coffee sessions: TIL</description>
+    <description>Recent content on T&#43;D coffee sessions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Mar 2016 16:00:00 +0100</lastBuildDate>
     <atom:link href="http://td-berlin.github.io/coffee-sessions/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>#1: One click deploys </title>
+      <title>#1: One click deploys</title>
       <link>http://td-berlin.github.io/coffee-sessions/session/2016-03-22-One-click-deploys/</link>
       <pubDate>Tue, 22 Mar 2016 16:00:00 +0100</pubDate>
       
       <guid>http://td-berlin.github.io/coffee-sessions/session/2016-03-22-One-click-deploys/</guid>
-      <description>&lt;p&gt;Meeting minutes will be uploaded after the session&lt;/p&gt;
+      <description>&lt;p&gt;The meeting started from Daniel explaining why we should not use &lt;code&gt;TIL&lt;/code&gt; term.
+He&amp;rsquo;s right, we won&amp;rsquo;t ;-)&lt;/p&gt;
+
+&lt;p&gt;We have discussed shortly the idea of having hooks for deployments, making it
+possible to deploy by anyone and with &amp;ldquo;one click&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Discussed the idea of creating our own implementation of &lt;code&gt;captainhook&lt;/code&gt;, but
+first let&amp;rsquo;s try whether entire idea makes sense.&lt;/p&gt;
 </description>
     </item>
     
