@@ -9,4 +9,4 @@ title = "#1: One click deploys "
 
 +++
 
-Meeting meetings will be uploaded after the meeting
+Meeting minutes will be uploaded after the session
