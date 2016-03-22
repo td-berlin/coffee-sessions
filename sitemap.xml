@@ -3,7 +3,13 @@
   
   <url>
     <loc>http://td-til.github.io/</loc>
+    <lastmod>2016-03-22T16:00:00+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://td-til.github.io/post/2016-03-22-One-click-deploys/</loc>
+    <lastmod>2016-03-22T16:00:00+01:00</lastmod>
   </url>
   
 </urlset>
