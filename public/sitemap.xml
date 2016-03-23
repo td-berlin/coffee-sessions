@@ -3,13 +3,23 @@
   
   <url>
     <loc>http://td-berlin.github.io/coffee-sessions/</loc>
-    <lastmod>2016-03-22T16:00:00+01:00</lastmod>
+    <lastmod>2016-03-23T16:30:00+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://td-berlin.github.io/coffee-sessions/session/2016-03-23-Datadog-Graph-everything/</loc>
+    <lastmod>2016-03-23T16:30:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://td-berlin.github.io/coffee-sessions/session/2016-03-22-One-click-deploys/</loc>
     <lastmod>2016-03-22T16:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://td-berlin.github.io/coffee-sessions/page/rules/</loc>
+    <lastmod>2016-03-22T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

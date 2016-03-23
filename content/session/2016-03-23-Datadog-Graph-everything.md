@@ -1,7 +1,7 @@
 +++
-Categories = ["Development", "GoLang"]
+Categories = ['coffee-session']
 Description = ""
-Tags = ["Development", "golang"]
+Tags = ["datadog"]
 color = "datadog"
 date = "2016-03-23T16:30:00+01:00"
 icon = "bar-chart-o"
