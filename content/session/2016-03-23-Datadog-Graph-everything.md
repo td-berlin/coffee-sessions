@@ -2,9 +2,9 @@
 Categories = ["Development", "GoLang"]
 Description = ""
 Tags = ["Development", "golang"]
-color = ""
+color = "datadog"
 date = "2016-03-23T16:30:00+01:00"
-icon = ""
+icon = "bar-chart-o"
 title = "#2: Datadog - Graph everything!"
 
 +++
