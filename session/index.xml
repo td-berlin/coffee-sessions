@@ -6,8 +6,18 @@
     <description>Recent content in Sessions on T&#43;D coffee sessions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Mar 2016 16:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 23 Mar 2016 16:30:00 +0100</lastBuildDate>
     <atom:link href="http://td-berlin.github.io/coffee-sessions/session/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>#2: Datadog - Graph everything!</title>
+      <link>http://td-berlin.github.io/coffee-sessions/session/2016-03-23-Datadog-Graph-everything/</link>
+      <pubDate>Wed, 23 Mar 2016 16:30:00 +0100</pubDate>
+      
+      <guid>http://td-berlin.github.io/coffee-sessions/session/2016-03-23-Datadog-Graph-everything/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s talk about Datadog and things (metrics) we collect there&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>#1: One click deploys</title>

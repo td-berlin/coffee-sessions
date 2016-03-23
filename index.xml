@@ -6,8 +6,18 @@
     <description>Recent content on T&#43;D coffee sessions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Mar 2016 16:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 23 Mar 2016 16:30:00 +0100</lastBuildDate>
     <atom:link href="http://td-berlin.github.io/coffee-sessions/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>#2: Datadog - Graph everything!</title>
+      <link>http://td-berlin.github.io/coffee-sessions/session/2016-03-23-Datadog-Graph-everything/</link>
+      <pubDate>Wed, 23 Mar 2016 16:30:00 +0100</pubDate>
+      
+      <guid>http://td-berlin.github.io/coffee-sessions/session/2016-03-23-Datadog-Graph-everything/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s talk about Datadog and things (metrics) we collect there&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>#1: One click deploys</title>
@@ -23,6 +33,29 @@ possible to deploy by anyone and with &amp;ldquo;one click&amp;rdquo;.&lt;/p&gt;
 
 &lt;p&gt;Discussed the idea of creating our own implementation of &lt;code&gt;captainhook&lt;/code&gt;, but
 first let&amp;rsquo;s try whether entire idea makes sense.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>coffee sessions&#39; rules</title>
+      <link>http://td-berlin.github.io/coffee-sessions/page/rules/</link>
+      <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://td-berlin.github.io/coffee-sessions/page/rules/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;We meet everyday, for 15 minutes, via Google Hangout.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The Hangout link is announced on Slack&amp;rsquo;s &lt;code&gt;#kitchen&lt;/code&gt; channel&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Goal of each session is to discuss what have we learned recently.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;To keep it organized, there is only one topic discussed per session.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The topic is published on this page in advance.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;After the meeting, meeting minutes are written to the session entry in this
+blog, so we can reference to it later.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
