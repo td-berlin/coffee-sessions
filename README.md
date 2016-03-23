@@ -1,4 +1,4 @@
-# T+D Coffee sessions: Today I Learned
+# T+D coffee sessions
 
 This repository contains source code and generated static files of
 http://td-berlin.github.io/coffee-sessions/ website.
